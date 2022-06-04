@@ -1,3 +1,5 @@
+##🌈Play the BEST Solitaire Fun And Enjoy a Relaxed life NOW!
+
 Free Solitaire is a classic interesting& popular Card game that is ideal for all ages, If you like playing classic card games (e.g. Patience Solitaire or Klondike Solitaire) or experience top Solitaire game , then our free classic solitaire will bring you endless fun.
 
 Now, let’s have a look of our top free solitaire game!
