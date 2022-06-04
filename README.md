@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome Solitaire - classic
 
-You can use the [editor on GitHub](https://github.com/imageJim/imageJim.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Free Solitaire is a classic interesting& popular Card game that is ideal for all ages, If you like playing classic card games (e.g. Patience Solitaire or Klondike Solitaire) or experience top Solitaire game , then our free classic solitaire will bring you endless fun.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Now, let’s have a look of our top free solitaire game!
 
-### Markdown
+<b>Classic, best solitaire game</b>
+Solitaire is a challenging brain game that everyone can play for free!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<b>Dedicated Game Design For You</b>
+All the cards, backgrounds and animations are perfectly designed ,you could choose various difficulties to challenge yourself
 
-```markdown
-Syntax highlighted code block
+<b>Diverse Artistic Themes</b>
+With dozens of Front patterns/Back patterns/Backgrounds, you could design your own style.
 
-# Header 1
-## Header 2
-### Header 3
+<b>Exciting Daily Challenges For You</b>
+There are daily challenges for you to complete and win trophies
 
-- Bulleted
-- List
+<b>FEATURES:</b>
+🌵Classic and free Solitaire game
+🌵Perfect game interface with high quality
+🌵Enlarged version that will do no harm to eyes
+🌵Klondike Solitaire Draw 1 card or Draw 3 cards
+🌵Simple operation, each step can be completed by clicking or dragging
+🌵Tap to automatically choose the best move
+🌵right or Left handed mode
+🌵Undo freely
+🌵Time, move, statistics
+🌵Sound effect
+🌵Unlimited and free hints
+🌵Auto hint
+🌵Play offline, without wifi
+🌵More gameplays are waiting for you to explore...
 
-1. Numbered
-2. List
+you Absolutely will enjoy our exciting Solitaire card game, also you could try our other free top fun Solitaire, like Freecell, spider solitaire and so on.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imageJim/imageJim.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Play and enjoy our fascinating free Solitaire Games and enjoy top card games now and see for yourself why so many others love our Solitaire game!
